@@ -127,8 +127,7 @@ free -h    # confirm Swap row shows 2.0Gi
 
 ```bash
 cd ~
-git clone https://github.com/Rohit-1920/medical_erp.git
-cd medical_erp
+git clone https://github.com/pratiksonone619-art/Medical-ERP
 ls
 ```
 
