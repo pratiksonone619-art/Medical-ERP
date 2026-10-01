@@ -121,7 +121,7 @@ docker compose version
 
 ```bash
 cd ~
-git clone https://github.com/Rohit-1920/medical_erp.git
+git clone https://github.com/pratiksonone619-art/Medical-ERP
 cd medical_erp
 ```
 
